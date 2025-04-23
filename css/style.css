@@ -397,7 +397,7 @@ display: inline-block;
   
 footer{
  
-  background-color: #181899;
+  background-color: #0e0eaa;
   color: #f8ffff;
   text-align: center;
   padding-block: 30px;
@@ -470,5 +470,5 @@ footer{
   cursor: pointer;
 }
 .caption{
-  background-color: #3d1ada;
+  background-color: #320ae6;
 }
